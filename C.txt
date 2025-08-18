@@ -1,0 +1,35 @@
+1.)Write a program to multiply two numbers, 
+ then after add 27 to it and then subtract 15 from it.
+ Check whether the result is greater than or equals to 55 or not.
+
+2.) Write a program to check whether a single digit integer is even or odd.
+
+3.)Write a program to convert int to float using type casting and print both.
+
+4.)Write a program to divide two integers and
+ use type casting to show accurate decimal output
+
+5.)Write a program to input the cost price and 
+selling price of an item and print if it is a profit or loss.
+
+6.)Write a program to input three values representing the sides of a triangle.
+ Determine if the triangle is Equilateral, Isosceles, or Scalene. 
+ Also, check if the sides can form a valid triangle.
+
+7.)Write a program to create a simple calculator that performs 
+addition, subtraction, multiplication, and division based on the user's choice.
+
+8.)Write a program to input your marks in 5 subjects and calculate percentage.
+Use if-else-if to print grades:
+A for ≥ 80%
+B for ≥ 60%
+C for ≥ 40%
+F for < 40%
+
+9.)Write a program using a for loop to print all numbers divisible by 3 from 1 to 30.
+
+10.)Write a program using a for loop to calculate the factorial of a given number.
+
+11.)Write a program using a while loop to print numbers in reverse from 10 to 1.
+
+12.)Write a program using a while loop to print all multiples of 7 up to 70.
