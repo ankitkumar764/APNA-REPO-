@@ -1,0 +1,149 @@
+1.). Grade Calculator(via->switch-csae)
+Given marks 0–100, print grade.
+
+Example mapping:
+
+90–100 → A
+
+80–89 → B
+
+70–79 → C
+
+60–69 → D
+
+0–59 → F
+
+Input: marks = 92 → Output: "A"
+
+Input: marks = 75 → Output: "C"
+
+Input: marks = 40 → Output: "F"
+
+
+
+
+
+2.). Leap Year (Simple Rule)
+Given a year, check if it is a leap year. (Simple version: divisible by 4 → leap; you can refine later.)
+
+Input: 2020 → Output: "leap year"
+Input: 2021 → Output: "not a leap year"
+Input: 2000 (if using full rule: divisible by 400) → Output: "leap year"
+
+
+
+
+
+3.). Reverse a Number
+Given a number, print its reverse.
+
+Input: n = 1234 → Output: 4321
+Input: n = 100 → Output: 1 (leading zeros dropped)
+Input: n = -321 → Output: -123 (if you handle sign)
+
+
+
+
+
+
+4.). All Primes from 1 to N
+Print all prime numbers from 1 to N.
+
+Input: N = 10 → Output: 2 3 5 7
+Input: N = 5 → Output: 2 3 5
+Input: N = 2 → Output: 2
+
+
+
+
+
+
+5.). GCD of Two Numbers (Simple Loop)
+Given two numbers, find their greatest common divisor.
+
+Input: a = 12, b = 18 → Output: 6
+Input: a = 5, b = 9 → Output: 1
+Input: a = 20, b = 100 → Output: 20
+
+
+
+
+
+
+6.). LCM of Two Numbers
+Given two numbers, find their least common multiple.
+
+Input: a = 4, b = 6 → Output: 12
+Input: a = 5, b = 7 → Output: 35
+Input: a = 3, b = 9 → Output: 9
+
+
+
+
+
+
+7.). Frequency of a Value
+Given an array and a value, count how many times value appears.
+
+Input: [1, 2, 2, 3, 2], value = 2 → Output: 3
+Input: [5, 5, 5], value = 5 → Output: 3
+Input: [1, 2, 3], value = 4 → Output: 0
+
+
+
+
+
+
+8.). Check if Array is Sorted (Increasing)
+Return true if each element is >= previous one.
+
+Input: [1, 2, 3, 4] → Output: true
+Input: [1, 2, 2, 3] → Output: true
+Input: [3, 2, 1] → Output: false
+
+
+
+
+
+
+9.). Second Smallest Element
+Assume array has at least 2 distinct elements.
+
+Input: [10, 5, 8, 20] → Smallest = 5 → Second smallest = 8
+Input: [3, 1, 2] → Output: 2
+Input: [100, 50] → Output: 100
+
+
+
+
+
+10.). Intersection of Two Arrays (Common Elements)
+Return new array with elements present in both (no duplicates).
+
+Input: [1, 2, 3, 4] and [3, 4, 5] → Output: [3, 4]
+Input: [1, 2] and [3, 4] → Output: []
+Input: [1, 1, 2] and [1, 2, 2] → Output: [1, 2]
+
+
+
+
+
+
+11.). Remove Duplicates
+Return a new array with unique elements (order can be original order).
+
+Input: [1, 2, 2, 3, 3, 3] → Output: [1, 2, 3]
+Input: ["a", "a", "b"] → Output: ["a", "b"]
+Input: [] → Output: []
+
+
+
+
+
+
+12.). Rotate Array Left by 1
+Move first element to end.
+
+Input: [1, 2, 3, 4] → Output: [2, 3, 4, 1]
+Input: [10] → Output: [10]
+Input: [] → Output: []
