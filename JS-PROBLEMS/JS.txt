@@ -147,3 +147,26 @@ Move first element to end.
 Input: [1, 2, 3, 4] → Output: [2, 3, 4, 1]
 Input: [10] → Output: [10]
 Input: [] → Output: []
+
+
+
+
+
+13.) Frequency of Numbers in Array (Object)
+Return an object where key = number, value = count.
+
+Input: [1, 2, 2, 3] → Output: {1: 1, 2: 2, 3: 1}
+Input: [5, 5, 5] → Output: {5: 3}
+Input: [] → Output: {}
+
+
+
+
+
+
+14.) Check if Array is Sorted (Increasing)
+Return true if each element is >= previous one.
+
+Input: [1, 2, 3, 4] → Output: true
+Input: [1, 2, 2, 3] → Output: true
+Input: [3, 2, 1] → Output: false

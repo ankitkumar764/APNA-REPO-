@@ -1,0 +1,48 @@
+1.) Remove Leading and Trailing Spaces (Trim)
+Return a new string with spaces removed from start and end only.
+
+Input: "  hello  " → Output: "hello"
+Input: "   js" → Output: "js"
+Input: "world   " → Output: "world"
+
+
+
+
+
+2.) First Word of a Sentence
+Characters from start until first space. If no space, whole string.
+
+Input: "Hello world" → Output: "Hello"
+Input: "JavaScript is fun" → Output: "JavaScript"
+Input: "SingleWord" → Output: "SingleWord"
+
+
+
+
+
+3.) Length of Longest Word in a Sentence
+Return just the number (length of the longest word).
+
+Input: "I love coding" Words: I(1), love(4), coding(6) → Output: 6
+
+Input: "JavaScript is awesome" Words: JavaScript(10), is(2), awesome(7) → Output: 10
+
+Input: "hi" → Output: 2
+
+
+
+
+
+
+4.) Shortest Word in a Sentence
+Return the actual word with minimum length (if tie, you can return first shortest).
+
+Input: "I love coding" → Words: I, love, coding → Output: "I"
+Input: "Java is fun" → Words: Java, is, fun → Shortest = "is" → Output: "is"
+Input: "one two three" → All length 3 → Output: "one" (or first)
+
+
+
+
+
+
