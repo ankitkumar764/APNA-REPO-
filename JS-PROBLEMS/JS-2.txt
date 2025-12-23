@@ -45,4 +45,44 @@ Input: "one two three" → All length 3 → Output: "one" (or first)
 
 
 
+5.) Move All Negative Numbers to Front
+Reorder array so that all negatives come before non-negatives (0 and positives). Order within groups can be ignored.
 
+Input: [1, -2, 3, -4, 0] → Possible Output: [-2, -4, 1, 3, 0]
+Input: [-1, -2, -3] → Output: [-1, -2, -3]
+Input: [1, 2, 3] → Output: [1, 2, 3]
+
+
+
+
+
+
+
+6.). Anagram Check (Ignore Spaces and Case)
+Two strings are anagrams if they use same letters in same counts, order doesn’t matter.
+
+Input: "listen", "silent" → Output: true
+Input: "Dormitory", "Dirty room" → After ignoring spaces & case → Output: true
+Input: "hello", "world" → Output: false
+
+
+
+
+
+
+7.) A pangram contains every letter a–z at least once (ignore case and non-letters).
+
+Input: "The quick brown fox jumps over a lazy dog" → Output: true
+Input: "Sphinx of black quartz, judge my vow" → Output: true
+Input: "Hello world" → Output: false
+
+
+
+
+
+8.) Automorphic Number
+A number is automorphic if its square ends with the same digits as the number.
+
+Input: n = 5 → 5² = 25 → ends with 5 → Output: true
+Input: n = 6 → 6² = 36 → ends with 6 → Output: true
+Input: n = 7 → 7² = 49 → does not end with 7 → Output: false
