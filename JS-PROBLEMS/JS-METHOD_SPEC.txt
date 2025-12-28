@@ -1,0 +1,26 @@
+1.> Maximum in Array---->(REDUCE & Math.max & SORT)
+Given an array, find the maximum element.
+
+Input: [3, 7, 2, 9] → Output: 9
+Input: [-5, -2, -10] → Output: -2
+Input: [42] → Output: 42
+
+
+
+
+2.> Print Elements Greater than 10----->(FILTER & JOIN)
+Given an array, print elements greater than 10.
+
+Input: [5, 12, 7, 20, 3] → Output: 12 20
+Input: [10, 11, 9] → Output: 11
+Input: [1, 2, 3] → Output: (nothing)
+
+
+
+
+3.> Replace All 'a' with 'e'---------->(SPLIT AUR JOIN);
+Given a string, replace all 'a' with 'e'.
+
+Input: "banana" → Output: "benene"
+Input: "apple" → Output: "epple"
+Input: "cat" → Output: "cet"
