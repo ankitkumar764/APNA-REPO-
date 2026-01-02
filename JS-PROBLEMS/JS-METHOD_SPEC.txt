@@ -1,3 +1,26 @@
+0.> To Uppercase
+Convert a string to uppercase.
+
+Input: "hello" → Output: "HELLO"
+Input: "Js" → Output: "JS"
+Input: "123abc" → Output: "123ABC"
+
+
+
+
+
+Q37. Reverse a String
+Reverse all characters in the string.
+
+Input: "hello" → Output: "olleh"
+Input: "abc" → Output: "cba"
+Input: "a" → Output: "a"
+
+
+
+
+
+
 1.> Maximum in Array---->(REDUCE & Math.max & SORT)
 Given an array, find the maximum element.
 
